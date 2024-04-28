@@ -30,7 +30,7 @@ The dataset used in this project contains the following tags:
 5. Database Integration: Stores recommended movies and user information in an SQL database for future retrieval.
 
 # Usage
-1. Clone the repository: git clone https://github.com/yourusername/movie-recommendation.git
+1. Clone the repository: git clone https://github.com/viksith/movie_recommendation.git
 2. Install dependencies
 3. Generate recommendations: Run python main.py
    
