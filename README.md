@@ -5,6 +5,7 @@ This project implements a movie recommendation system using machine learning alg
 # Features
 
 1.Dataset: Utilizes a dataset containing movie information including genres, keywords, taglines, cast, and directors.
+
 2. Machine Learning Algorithms: Implements machine learning algorithms such as cosine similarity, TF-IDF vectorization, and collaborative filtering for recommendation tasks.
 
  Modules Used:
